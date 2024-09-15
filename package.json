@@ -1,0 +1,16 @@
+{
+  "name": "dynorequest",
+  "version": "1.0.12",
+  "description": "simple package to preform http requests",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["request", "http", "npm"],
+  "author": "bura1414",
+  "license": "MIT",
+  "dependencies": {
+    "request-promise": "^4.2.6"
+  }
+}
